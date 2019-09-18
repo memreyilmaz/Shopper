@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopper</string>
+    <string name="remember_me">Remember Me</string>
+
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="store_logo">Store Logo</string>
+
+
+</resources>
